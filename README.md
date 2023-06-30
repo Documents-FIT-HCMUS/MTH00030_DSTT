@@ -1,2 +1,3 @@
-# MTH00030_DSTT
-Tài liệu môn học: Đại số tuyến tính
+## Các tài nguyên khác
+
+* Playlist video bài giảng online: [ĐSTT - Online Class](https://www.youtube.com/playlist?list=PLD-uU9PUNiZZSfQ8jdEWvN3dI9Rmzzcxu)
